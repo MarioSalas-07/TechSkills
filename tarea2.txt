@@ -1,0 +1,7 @@
+Tech Skill 2: Git
+
+Se Aprende a usar git de manera en la que se puedan realizar cambios a diferentes ramas, así como su integración entre estas. 
+•	Creación de repositorios 
+•	Git ignore 
+•	Pull, comit, push 
+•	Ramas e integración  
