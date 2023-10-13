@@ -5,3 +5,21 @@ Se Aprende a usar git de manera en la que se puedan realizar cambios a diferente
 •	Git ignore 
 •	Pull, comit, push 
 •	Ramas e integración  
+
+Desafío: Realizar una serie de tareas utilizando Git para gestionar un repositorio de código. Cumple con los siguientes requisitos: 
+Inicializar el repositorio: 
+•	Crea un nuevo repositorio Git en tu máquina local. 
+•	Configura tu nombre de usuario y dirección de correo electrónico asociados al repositorio. 
+Realizar cambios y confirmaciones: 
+•	Crea un archivo de texto simple y añade algunas líneas de código. 
+•	Realiza al menos dos confirmaciones separadas para los cambios realizados. 
+•	Asegúrate de agregar mensajes descriptivos y significativos a cada confirmación. 
+Ramificación y fusión: 
+•	Crea una nueva rama llamada "feature". 
+•	Realiza cambios adicionales en la rama "feature". 
+•	Fusiona la rama "feature" con la rama principal (por ejemplo, "main" o "master"). 
+Gestión de cambios remotos: 
+•	Crea un repositorio vacío en una plataforma de alojamiento de Git, como GitHub o GitLab. 
+•	Configura el repositorio remoto como origen para tu repositorio local. 
+•	Envía los cambios locales al repositorio remoto. 
+•	Subir actividades al repositorio  
